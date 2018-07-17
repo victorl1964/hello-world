@@ -1,2 +1,2 @@
 # hello-world
-A beginner's excercise to lear how to use github
+A beginner's excercise to learn how to use github
